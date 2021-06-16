@@ -1,0 +1,5 @@
+1. Variables: Las variables son espacios o cajas que almacenan cualquier tipo de información en la memoria de la computadora.
+2.Strings: es un tipo de variable que admite valores de texto y va entre comillas como "hola", "nombre" etc.
+3.Funciones (argumentos, return): La funciones nos permiten crear operaciones que devuelven un valor como la suma o resta de dos números, y éstas son definidas por uno mismo al momento de programar.
+4.Declaraciones if: Son condicionales que se usan para ver si cierto valor o parametro es verdadero o falso.
+5.Valores booleanos (true, false): es el tipo de valor que devuelve un if al momento de ejecutar un procedimiento y los unicos valores que pueden devolver son true o false nada más.
